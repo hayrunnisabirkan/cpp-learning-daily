@@ -5,3 +5,6 @@ Release/
 *.obj
 *.exe
 *.pdb
+*.slnx
+*.vcxproj*
+firstproject/
