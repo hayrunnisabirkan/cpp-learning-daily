@@ -1,5 +1,7 @@
 .vs/
 x64/
-*.vcxproj*
-*.slnx
-firstproject/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
